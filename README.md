@@ -1,7 +1,33 @@
-# Financial-Sample-PowerBI
+# 📊 Financial Sample - Power BI
+> Análise Financeira Interativa e Relatório de Desempenho com Power BI e PowerPoint
 
-Projeto realizado para a DIO onde com o direcionamento de Juliana Mascarenhas.
-Separei em uma pasta para o banco de dados baixado para a realização dos dashboards. E na pasta de projetos está localizado meu arquivo do PowerBi
+Este projeto foi desenvolvido como parte de um curso da **Digital Innovation One (DIO)**, orientado pela instrutora **Juliana Mascarenhas**. O objetivo principal consistiu na construção de um dashboard financeiro completo e na elaboração de materiais complementares de apresentação executiva.
 
-## Apresentação
-Os arquivos expostos apresentam o formato de apresentação em powerpoint e um de exibição em imagem em pdf.
+---
+
+## 📌 Destaques do Projeto
+
+- **Modelagem e Visualização:** Construção de dashboards interativos no Power BI para análise detalhada de métricas financeiras, vendas e lucros.
+- **Apresentação Executiva:** Criação de suporte visual no PowerPoint (`.pptx`) e exportação em formato estático (`.pdf`) para apresentações de resultados.
+- **Organização Modular:** Estruturação clara do projeto separando o banco de dados original dos arquivos de desenvolvimento do Power BI e apresentações.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **Microsoft Power BI:** Tratamento de dados, criação de visuais e construção do relatório financeiro interativo.
+- **Microsoft Excel:** Base de dados financeira (`Financial Sample.xlsx`).
+- **Microsoft PowerPoint:** Elaboração do ecossistema de slides para apresentação.
+
+---
+
+## 📂 Estrutura do Repositório
+
+```text
+├── Database/
+│   └── Financial Sample.xlsx
+├── Projeto/
+│   └── Financial Sample.pbix
+├── Financial Sample.pdf
+├── Power BI Slides.pptx
+└── README.md
